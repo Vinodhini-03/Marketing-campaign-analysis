@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#6C63FF"        # Purple-blue accent
+backgroundColor = "#0E1117"     # Deep black
+secondaryBackgroundColor = "#161B22"
+textColor = "#E6EDF3"
+font = "sans serif"
